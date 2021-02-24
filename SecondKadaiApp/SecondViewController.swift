@@ -13,9 +13,8 @@ class SecondViewController: UIViewController {
 
     override func viewDidLoad() {
          super.viewDidLoad()
-        
-        _ = x
-        label.text = "こんにちは\(String(describing: x))さん"
+        let result = x
+        label.text = "こんにちは\(String(describing: result))さん"
 }
 }
     
