@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "05A15A80-8FD1-4D09-B878-DAA5E5F15C41"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "36AF9094-74E6-4651-9FF1-E55C0C9ED0A7"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SecondKadaiApp/SecondViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "10"
+            endingLineNumber = "10"
+            landmarkName = "SecondViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "36AF9094-74E6-4651-9FF1-E55C0C9ED0A7 - 91f30b4a7cbd4489"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SecondKadaiApp.SecondViewController.__deallocating_deinit"
+                  moduleName = "SecondKadaiApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/riki/Desktop/SecondKadaiApp/SecondKadaiApp/SecondViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  uuid = "36AF9094-74E6-4651-9FF1-E55C0C9ED0A7 - 5d8e6600ee140b2a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SecondKadaiApp.SecondViewController.__allocating_init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; SecondKadaiApp.SecondViewController"
+                  moduleName = "SecondKadaiApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/riki/Desktop/SecondKadaiApp/SecondKadaiApp/SecondViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  uuid = "36AF9094-74E6-4651-9FF1-E55C0C9ED0A7 - 68eecf3b10bf8978"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SecondKadaiApp.SecondViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; SecondKadaiApp.SecondViewController"
+                  moduleName = "SecondKadaiApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/riki/Desktop/SecondKadaiApp/SecondKadaiApp/SecondViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "181">
+               </Location>
+               <Location
+                  uuid = "36AF9094-74E6-4651-9FF1-E55C0C9ED0A7 - 38fc708a58008a2f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SecondKadaiApp.SecondViewController.__allocating_init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;SecondKadaiApp.SecondViewController&gt;"
+                  moduleName = "SecondKadaiApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/riki/Desktop/SecondKadaiApp/SecondKadaiApp/SecondViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  uuid = "36AF9094-74E6-4651-9FF1-E55C0C9ED0A7 - ba154cd134e90f20"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SecondKadaiApp.SecondViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;SecondKadaiApp.SecondViewController&gt;"
+                  moduleName = "SecondKadaiApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/riki/Desktop/SecondKadaiApp/SecondKadaiApp/SecondViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "119">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
